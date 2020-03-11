@@ -11,6 +11,9 @@
     "coverage": "jest --verbose --coverage && open ./coverage/lcov-report/index.html",
     "release": "build && test"
   },
+  "jest": {
+    "roots": ["./dist/"]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ianmarmour/react-snap-grid.git"
