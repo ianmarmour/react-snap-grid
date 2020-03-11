@@ -1,0 +1,24 @@
+{
+  "name": "react-snap-grid",
+  "version": "0.0.1",
+  "description": "A React hook library that provides a grid based display element which supports snapping to certain points.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmarmour/react-snap-grid.git"
+  },
+  "keywords": [
+    "react",
+    "snap-grid",
+    "react-snap-grid"
+  ],
+  "author": "Ian Armour",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ianmarmour/react-snap-grid/issues"
+  },
+  "homepage": "https://github.com/ianmarmour/react-snap-grid#readme"
+}
