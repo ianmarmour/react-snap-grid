@@ -4,6 +4,7 @@
   "description": "A React hook library that provides a grid based display element which supports snapping to certain points.",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
     "test": "jest"
   },
   "repository": {
