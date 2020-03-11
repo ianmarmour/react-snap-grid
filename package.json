@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/ianmarmour/react-snap-grid/issues"
   },
-  "homepage": "https://github.com/ianmarmour/react-snap-grid#readme"
+  "homepage": "https://github.com/ianmarmour/react-snap-grid#readme",
+  "dependencies": {
+    "react": "^16.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
